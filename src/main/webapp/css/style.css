@@ -1,0 +1,9 @@
+.errorMessage{
+    border: 1px solid #FF3300;
+    color: black;
+    font-weight: bold;
+}
+
+body {
+    padding: 50px 20px; 
+}
